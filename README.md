@@ -1,13 +1,15 @@
 # kali-rtl8192eu
 VBox安装kali，无线网卡tplinkwdn5200
 
-原文：
+原文参考：
 
 https://blog.csdn.net/GX_1_11_real/article/details/90597457
 
 https://www.jianshu.com/p/32e19a365534
 
 https://github.com/Mange/rtl8192eu-linux-driver
+
+平台
 
 
 MAC 10.15
