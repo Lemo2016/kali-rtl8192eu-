@@ -11,19 +11,19 @@ https://github.com/Mange/rtl8192eu-linux-driver
 
 平台
 
-
 MAC 10.15
 
 VirtualBox
 
 Kali Linux VirtualBox 64-Bit
 
-tplink wdn5200
+tplink wdn5200 （MTK MT7610U, USB ID = 0bda:c811, Driver = rtl8192eu）
 
 
 wdn5200drive: https://github.com/Mange/rtl8192eu-linux-driver
 
 Kali.dvi: https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/
+
 
 
 VBox中安装kali
@@ -103,6 +103,14 @@ $ airodump-ng wlan0
 
 
 欢迎开始你的kali之旅
+
+USB ID和驱动的部分对应关系
+
+https://blog.csdn.net/opipa/article/details/51919847
+
+查看其它网卡驱动和芯片组
+
+https://www.drvsky.com/sort/300_1.htm
 
 
 
