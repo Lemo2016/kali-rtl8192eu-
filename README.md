@@ -45,7 +45,7 @@ $ apt-get install ttf-wqy-microhei ttf-wqy-zenhei xfonts-wqy locales
 
 配置中文界面
 
-空格选中en_US.UTF-8、zh_CN.GBK、zh_CN.UTF-8，回车选择字符:zh_CN.UTF-8
+空格选中en_US.UTF-8、zh_CN.GBK、zh_CN.UTF-8，先按方向键右，:zh_CN.UTF-8. 回车OK
 
 $ dpkg-reconfigure locales
 
